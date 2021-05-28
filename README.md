@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lchioratto
-- 👀 I’m interested in FrontEnd Dev && Ethical Hacking
-- 🌱 I’m currently learning Python, JavaScript, Html and Css
+- 👀 I’m interested in FrontEnd Dev && Python && Network Security.
+- 🌱 I’m currently learning Python, JavaScript, Html & Css as well as Network Security.
 
 
 <!---
